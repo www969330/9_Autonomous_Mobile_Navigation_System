@@ -1,0 +1,27 @@
+<launch>
+  
+  <node pkg="decluttering_domestic_robot" name="dcrobot" type="dcrobot_node" output="screen"/>
+
+  <!-- Launch node for spawning object in gazebo -->
+  <node pkg="decluttering_domestic_robot" name="objectSpawner" type="object_spawner_node" output="screen"/>
+
+  <!-- Spawn target marker in Gazebo -->
+  <node pkg="gazebo_ros" type="spawn_model" name="spawn_target_marker"
+        args="-sdf -model target_marker -file $(find decluttering_domestic_robot)/models/target_marker/model.sdf -x -3.0 -y -1.0 -z 0.0"
+        output="screen"/>
+
+  <!-- Launch 'smallHouse' world in Gazebo along with Tiago robot -->
+  <include file="$(find tiago_2dnav_gazebo)/launch/tiago_navigation.launch">
+    <arg name="robot"       value="steel"/>
+    <arg name="world"       value="smallHouse"/>
+    <arg name="lost"        value="false"/>
+    <arg name="public_sim"  value="true"/>
+  </include>
+
+  <!-- Record data on topics in rosbag -->
+  <arg name="record_bag" default="false"/>
+  <group if="$(arg record_bag)">
+      <node pkg="rosbag" type="record" name="rosbag_recorder"
+            args="record -O $(find decluttering_domestic_robot)../results/my_bag -a"/>
+  </group>
+</launch>

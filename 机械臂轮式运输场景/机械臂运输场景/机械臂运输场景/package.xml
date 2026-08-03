@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>decluttering_domestic_robot</name>
+  <version>0.0.0</version>
+  <description>The decluttering_domestic_robot package</description>
+
+  <maintainer email="hrushikesh@umd.edu">hrushikesh</maintainer>
+
+  <license>MIT</license>
+
+  <url type="website">https://github.com/HrushikeshBudhale/decluttering_domestic_robot/tree/main</url>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>image_transport</build_depend>
+  <build_depend>eigen</build_depend>
+  <build_depend>tf2_ros</build_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>moveit_core</build_depend>
+  <build_depend>moveit_ros_planning</build_depend>
+  <build_depend>moveit_ros_planning_interface</build_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>moveit_msgs</build_depend>
+  <build_depend>gazebo_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>control_msgs</build_depend>
+  
+  <build_depend>rostest</build_depend>
+
+  </package>
