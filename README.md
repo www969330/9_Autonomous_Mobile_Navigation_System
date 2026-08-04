@@ -94,7 +94,9 @@ ROS版本：ROS 1 Noetic
 仿真平台：Gazebo 11
 编程语言：C++、Python3
 机器人模型：TurtleBot3 Burger
-<img width="518" height="317" alt="屏幕截图 2026-08-04 130823" src="https://github.com/user-attachments/assets/1cee5837-fe84-466c-b71e-81180a98b044" />
+<div align="center">
+  <img alt="屏幕截图 2026-08-04 130823" src="https://github.com/user-attachments/assets/1cee5837-fe84-466c-b71e-81180a98b044" />
+</div>
 
 
 
