@@ -64,9 +64,17 @@ ROS版本：ROS 1 Noetic
 可视化工具：RViz
 硬件要求：普通PC可运行；视觉YOLO模块推荐带CUDA GPU
 
-<img width="2376" height="1347" alt="image" src="https://github.com/user-attachments/assets/c67f4c77-0032-43cc-a4fc-e0858f21d2f4" />
-<img width="662" height="498" alt="image" src="https://github.com/user-attachments/assets/0d631e9e-8d9b-404e-aac4-7be0c20c2c1e" />
-<img width="656" height="485" alt="image" src="https://github.com/user-attachments/assets/fb53b4af-1ce4-4aac-b2ef-c236472a2cda" />
+<div align="center">
+  <img width="2376" height="1347" alt="image" src="https://github.com/user-attachments/assets/c67f4c77-0032-43cc-a4fc-e0858f21d2f4" />
+</div>
+
+<div align="center">
+  <img width="662" height="498" alt="image" src="https://github.com/user-attachments/assets/0d631e9e-8d9b-404e-aac4-7be0c20c2c1e" />
+</div>
+
+<div align="center">
+  <img width="656" height="485" alt="image" src="https://github.com/user-attachments/assets/fb53b4af-1ce4-4aac-b2ef-c236472a2cda" />
+</div>
 
 ### 子项目2：机械臂轮式运输场景
 操作系统：Ubuntu 18.04 LTS（推荐Docker容器运行，无需本地配置）
