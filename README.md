@@ -69,8 +69,8 @@ ROS版本：ROS 1 Noetic
 </div>
 
 <div align="center">
-  <img width="662" height="498" style="max-width: 45%; margin-right: 10px;" alt="image" src="https://github.com/user-attachments/assets/0d631e9e-8d9b-404e-aac4-7be0c20c2c1e" />
-  <img width="656" height="485" style="max-width: 45%;" alt="image" src="https://github.com/user-attachments/assets/fb53b4af-1ce4-4aac-b2ef-c236472a2cda" />
+  <img width="500" height="376" style="max-width: 45%; margin-right: 10px;" alt="image" src="https://github.com/user-attachments/assets/0d631e9e-8d9b-404e-aac4-7be0c20c2c1e" />
+  <img width="500" height="376" style="max-width: 45%;" alt="image" src="https://github.com/user-attachments/assets/fb53b4af-1ce4-4aac-b2ef-c236472a2cda" />
 </div>
 
 ### 子项目2：机械臂轮式运输场景
