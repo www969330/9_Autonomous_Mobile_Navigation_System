@@ -64,6 +64,10 @@ ROS版本：ROS 1 Noetic
 可视化工具：RViz
 硬件要求：普通PC可运行；视觉YOLO模块推荐带CUDA GPU
 
+<img width="2376" height="1347" alt="image" src="https://github.com/user-attachments/assets/c67f4c77-0032-43cc-a4fc-e0858f21d2f4" />
+<img width="662" height="498" alt="image" src="https://github.com/user-attachments/assets/0d631e9e-8d9b-404e-aac4-7be0c20c2c1e" />
+<img width="656" height="485" alt="image" src="https://github.com/user-attachments/assets/fb53b4af-1ce4-4aac-b2ef-c236472a2cda" />
+
 ### 子项目2：机械臂轮式运输场景
 操作系统：Ubuntu 18.04 LTS（推荐Docker容器运行，无需本地配置）
 ROS版本：ROS 1 Melodic
@@ -71,6 +75,9 @@ ROS版本：ROS 1 Melodic
 编程语言：C++11/C++14
 部署工具：Docker
 硬件要求：普通PC，容器无N卡时使用软渲染
+<img width="952" height="563" alt="image" src="https://github.com/user-attachments/assets/bb8d5541-b52b-4cc1-a054-3819e75df750" />
+<img width="1040" height="742" alt="image" src="https://github.com/user-attachments/assets/8730f5a5-4ee1-4cbe-ace6-6f85d71279e0" />
+
 
 ### 子项目3：自主建图导航清洁场景
 操作系统：Ubuntu 20.04 LTS
@@ -78,6 +85,8 @@ ROS版本：ROS 1 Noetic
 仿真平台：Gazebo 11
 编程语言：C++、Python3
 机器人模型：TurtleBot3 Burger
+<img width="518" height="317" alt="image" src="https://github.com/user-attachments/assets/c4b4c413-998a-4262-8bd9-7550faad618e" />
+
 
 ## 4. 公共依赖安装方法（Ubuntu20.04通用，适配1、3子项目）
 ```bash
