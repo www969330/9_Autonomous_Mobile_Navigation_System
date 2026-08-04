@@ -85,7 +85,7 @@ ROS版本：ROS 1 Melodic
 </div>
 
 <div align="center">
-  <img width="832" height="594" style="max-width: 85%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/8730f5a5-4ee1-4cbe-ace6-6f85d71279e0" />
+  <img width="762" height="450" style="max-width: 85%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/8730f5a5-4ee1-4cbe-ace6-6f85d71279e0" />
 </div>
 
 ### 子项目3：自主建图导航清洁场景
