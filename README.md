@@ -81,13 +81,12 @@ ROS版本：ROS 1 Melodic
 部署工具：Docker
 硬件要求：普通PC，容器无N卡时使用软渲染
 <div align="center">
-  <img width="952" height="563" style="max-width: 85%; height: auto; margin-bottom: 20px;" alt="image" src="https://github.com/user-attachments/assets/bb8d5541-b52b-4cc1-a054-3819e75df750" />
+  <img width="762" height="450" style="max-width: 85%; height: auto; margin-bottom: 20px;" alt="image" src="https://github.com/user-attachments/assets/bb8d5541-b52b-4cc1-a054-3819e75df750" />
 </div>
 
 <div align="center">
-  <img width="1040" height="742" style="max-width: 85%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/8730f5a5-4ee1-4cbe-ace6-6f85d71279e0" />
+  <img width="832" height="594" style="max-width: 85%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/8730f5a5-4ee1-4cbe-ace6-6f85d71279e0" />
 </div>
-
 ### 子项目3：自主建图导航清洁场景
 操作系统：Ubuntu 20.04 LTS
 ROS版本：ROS 1 Noetic
