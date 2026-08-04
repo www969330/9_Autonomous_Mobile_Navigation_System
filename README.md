@@ -90,7 +90,9 @@ ROS版本：ROS 1 Noetic
 仿真平台：Gazebo 11
 编程语言：C++、Python3
 机器人模型：TurtleBot3 Burger
-<img width="518" height="317" alt="image" src="https://github.com/user-attachments/assets/c4b4c413-998a-4262-8bd9-7550faad618e" />
+<div align="center">
+  <img width="424" height="320" style="max-width: 100%; height: auto;" alt="屏幕截图 2026-07-16 004308" src="https://github.com/user-attachments/assets/9608aed7-ebfc-42b5-bfc1-551302136da8" />
+</div>
 
 
 ## 4. 公共依赖安装方法（Ubuntu20.04通用，适配1、3子项目）
