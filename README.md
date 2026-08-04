@@ -87,15 +87,15 @@ ROS版本：ROS 1 Melodic
 <div align="center">
   <img width="832" height="594" style="max-width: 85%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/8730f5a5-4ee1-4cbe-ace6-6f85d71279e0" />
 </div>
+
 ### 子项目3：自主建图导航清洁场景
 操作系统：Ubuntu 20.04 LTS
 ROS版本：ROS 1 Noetic
 仿真平台：Gazebo 11
 编程语言：C++、Python3
 机器人模型：TurtleBot3 Burger
-<div align="center">
-  <img width="424" height="320" style="max-width: 100%; height: auto;" alt="屏幕截图 2026-07-16 004308" src="https://github.com/user-attachments/assets/9608aed7-ebfc-42b5-bfc1-551302136da8" />
-</div>
+<img width="518" height="317" alt="屏幕截图 2026-08-04 130823" src="https://github.com/user-attachments/assets/1cee5837-fe84-466c-b71e-81180a98b044" />
+
 
 
 ## 4. 公共依赖安装方法（Ubuntu20.04通用，适配1、3子项目）
